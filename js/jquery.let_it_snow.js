@@ -6,7 +6,7 @@
  * As the end of the year approaches, let's add 
  * some festive to your website!
  *
- * ´úÂëÕûÀí£º´óÍ·Íø www.datouwang.com
+ * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í·ï¿½ï¿½ www.datouwang.com
  *
  * ========================================================== */
 
@@ -18,7 +18,7 @@
     size: 2,
     count: 100,
     opacity: 0,
-    color: "#ffffff",
+    color: "#66ccff",
     windPower: 0,
     image: false
 	};
